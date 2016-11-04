@@ -10,7 +10,6 @@
 --
 
 require 'image'
-local vision = require 'vision.env'
 
 local M = {}
 
@@ -289,7 +288,5 @@ function M.ColorJitter(opt)
 
    return M.RandomOrder(ts)
 end
-
-vision.transforms = M
 
 return M
