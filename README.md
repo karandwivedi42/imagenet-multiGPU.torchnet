@@ -8,8 +8,10 @@ _Inspired by imagenet-multiGPU.torch, uses torchnet dataloaders and engines.
 ### Trained Model
 
  [Pretrained Alexnet using this code](https://drive.google.com/open?id=0B7ZgIaKJsQhbYmlsM0RCU21QMXc) 
- (Logs at http://imgur.com/a/QWlYr)
- (Final Train Acc: 59.33% | Val Acc: 58.59% | Val mAP: 0.62 after 55 epochs)
+
+(Logs at http://imgur.com/a/QWlYr)
+
+(Final Train Acc: 59.33% | Val Acc: 58.59% | Val mAP: 0.62 after 55 epochs)
 
 * Note
 
